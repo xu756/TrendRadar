@@ -1,88 +1,3 @@
-# ===== 科技 =====
-电商
-出海
-GEO
-AEO
-独角兽
-techcrunch
-36kr
-notion
-huggingface
-aws
-华为
-智能眼镜
-智能设备
-AI陪伴
-# ===== 加密货币 =====
-B2B
-content marketing
-SAAS
-加密货币
-DOGE
-稳定币
-比特币
-crypto
-量子计算
-生物医疗
-基因工程
-graylock
-a16z
-红杉
-Tesla
-大疆
-DJI
-机器人
-京东
-字节
-头条
-小鹏
-理想
-bytedance
-Tiktok
-特斯拉
-马斯克
-微软
-Microsoft
-英伟达
-NVIDIA
-黄仁勋
-AMD
-谷歌
-iphone
-微信
-小红书
-# ===== 股市=====
-港股
-A股
-小米
-美团
-阿里
-歌礼制药
-蓝思科技
-歌尔股份
-七牛智能
-三安光电
-江苏国泰
-欣旺达
-模塑科技
-鹏鼎控股
-闻泰科技
-长盈精密
-立讯精密
-三花智控
-昆仑万维
-长信科技
-泡泡玛特
-Meta
-特锐德
-高通
-蔚来
-快手
-Google
-英伟达
-openai
-微软
-Amazon
 # ===== 大模型 & AI =====
 大模型
 agent
@@ -164,7 +79,11 @@ Diffusion
 !小说
 !广告
 # ===== 科技前沿 =====
-科技
+智能眼镜
+智能设备
+AI陪伴
+量子计算
+生物医疗科技
 芯片
 半导体
 量子计算
@@ -331,15 +250,8 @@ GPU
 宇宙
 飞船
 航空
-# ===== 其他 =====
-A2A
-A2P
-vibe coding
-codex
-sakana
-mistral
-rwkv
-jina
-runway
-pika
-vido
+基因工程
+# ===== 医疗 =====
+罕见病
+戈谢病
++医保政策
